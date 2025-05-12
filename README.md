@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm passionate about Java development and have bui
 
 ---
 ## 🛠️ Skills:
-- **Languages:** Java, SQL, JavaScript
-- **Frameworks:** Spring Boot, JSP
-- **Databases:** MySQL
-- **Tools & Platforms:** Git, Docker, IntelliJ IDEA
+- **Languages:** C, C++, Java, SQL
+- **Frameworks:** Spring Boot, JSP, Spring MVC, Hibernate
+- **Databases:** MySQL, Oracle
+- **Tools & Platforms:** Git, Docker, Visual Studio Code, Eclips IDE
 
 
 ## 📌 Major Projects
