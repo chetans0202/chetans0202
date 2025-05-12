@@ -3,6 +3,12 @@
 Welcome to my GitHub profile! I'm passionate about Java development and have built multiple backend and full-stack projects using technologies like Spring Boot, JSP, MySQL, and Core Java.
 
 ---
+## 🛠️ Skills:
+- **Languages:** Java, SQL, JavaScript
+- **Frameworks:** Spring Boot, JSP
+- **Databases:** MySQL
+- **Tools & Platforms:** Git, Docker, IntelliJ IDEA
+
 
 ## 📌 Major Projects
 
